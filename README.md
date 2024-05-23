@@ -1,0 +1,1 @@
+ChecksumFX is a utility intended to calculate the checksums of downloaded files and compare the results with published checksums.

@@ -1,0 +1,20 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ChecksumFX:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ChecksumFX_jar</output-path>
+    <root id="archive" name="ChecksumFX.jar">
+      <element id="module-output" name="ChecksumFX.main" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.openjfx/javafx-controls/17.0.7/e5bc7891b9e2a389aeac4a5dcabf1130e852bf0c/javafx-controls-17.0.7.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.openjfx/javafx-graphics/17.0.7/55eca64e65d90976f9d054dceb3921f4d08f4e8b/javafx-graphics-17.0.7.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.openjfx/javafx-base/17.0.7/5ba6d336d0e9a4134d96bb402890f5570c4562ae/javafx-base-17.0.7.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.openjfx/javafx-controls/17.0.7/2ed79724bc255776770260bde2bcbf9afb244440/javafx-controls-17.0.7-mac-aarch64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.openjfx/javafx-graphics/17.0.7/ef2075c43298ea0f88ccba14c0e10ff4f77624b8/javafx-graphics-17.0.7-mac-aarch64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.opentest4j/opentest4j/1.2.0/28c11eb91f9b6d8e200631d46e20a7f407f2a046/opentest4j-1.2.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.junit.jupiter/junit-jupiter-api/5.9.2/fed843581520eac594bc36bb4b0f55e7b947dda9/junit-jupiter-api-5.9.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.openjfx/javafx-fxml/17.0.7/dcdd0584e5ecfaa40205c69bd6be14043e014f/javafx-fxml-17.0.7-mac-aarch64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.openjfx/javafx-base/17.0.7/74a83f7b4d5752eccc0f35e48bc2dca4642d8873/javafx-base-17.0.7-mac-aarch64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.junit.jupiter/junit-jupiter-engine/5.9.2/572f7a553b53f83ee59cc045ce1c3772864ab76c/junit-jupiter-engine-5.9.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.junit.platform/junit-platform-engine/1.9.2/40aeef2be7b04f96bb91e8b054affc28b7c7c935/junit-platform-engine-1.9.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.junit.platform/junit-platform-commons/1.9.2/6f9f8621d8230cd38aa42e58ccbc0c00569131ce/junit-platform-commons-1.9.2.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
