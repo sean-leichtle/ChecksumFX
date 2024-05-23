@@ -85,7 +85,7 @@ public class ChecksumFXUI extends Application {
         artifactChecksum.setPrefSize(935, 30);
         artifactChecksum.setPromptText("Artifact checksum will appear here.");
         publishedChecksum.setPrefSize(935, 30);
-        publishedChecksum.setPromptText("Enter published checksum here and hit compare.");
+        publishedChecksum.setPromptText("Enter published checksum here and press compare.");
 
         // Assemble elements
         GridPane grid = new GridPane();
